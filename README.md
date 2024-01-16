@@ -15,6 +15,5 @@
 
 Raccolta di script per creazione CT e VM in Proxmox
 <p align="center">
-Fai attenzione e verifica sempre le azioni eseguite da ogni script eseguito in una macchina <a href="https://github.com/tteck/Proxmox/blob/main/CODE-AUDIT.md">Read more</a>
-</p>
-
+Fai attenzione e verifica sempre le azioni eseguite da ogni script eseguito in una macchina
+<p align="center">
