@@ -4,7 +4,6 @@
 <h1 align="center">Proxmox VE Helper-Scripts</h1>
 
 <p align="center">
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HkrFkToxF0Hgrq_-LdbaUvDcHcNehHhQug&s
 </p>
 
 ---
